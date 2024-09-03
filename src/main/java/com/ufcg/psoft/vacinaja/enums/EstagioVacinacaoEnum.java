@@ -1,0 +1,9 @@
+package com.ufcg.psoft.vacinaja.enums;
+
+public enum EstagioVacinacaoEnum {
+	NAO_HABILITADO,
+	HABILITADO_PRIMEIRA_DOSE,
+	ESPERANDO_SEGUNDA_DOSE,
+	HABILITADO_SEGUNDA_DOSE,
+	VACINACAO_FINALIZADA
+}
